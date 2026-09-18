@@ -212,7 +212,7 @@ genre_id
 | Movies                    |     100 |
 | Actors                    |   3,948 |
 | Genres                    |      17 |
-| Movie-Actor Relationships |   4,320 |
+| Movie-Actor Relationships |   4,318 |
 | Movie-Genre Relationships |     264 |
 
 ## Analysis
